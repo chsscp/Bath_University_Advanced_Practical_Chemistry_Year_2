@@ -42,11 +42,6 @@ The first notebook that you should open is that entitled `week_1.ipynb`.
 
 The notebook will launch in your C drive. This is unfortunate because your C drive will automatically wipe when you log off. So make sure you save the repo elsewhere before you log off. Hopefully BUC will fix this issue in the coming days.
 
-
-### Part 2
-
-Part 1 is designed to introduce you to the concept of 
-
 ## Authors
 
 - Andrew R. McCluskey
