@@ -16,6 +16,8 @@ Computational chemistry is often used in undergraduate laboratory exercises as a
 
 The will be a self-led workshop where students will (in their own time) be able to work through an interactive Jupyter notebook, which will detail the mechanism of atomistic simulation. At the end, the students will use the pylj framework to build a simple molecular dynamics simulation and use this to preform a straight-forward application of molecular dynamics. This application will involve running simulations at a series of different atomic densities to reflect on the effect of density on a *typical* ideal gas system.
 
+This will likely take three quarters of the day and students are welcome to begin the week 2 tutorial. 
+
 ##### Assesment
 
 - This week will form the basis for the methodology portion of the students report.
